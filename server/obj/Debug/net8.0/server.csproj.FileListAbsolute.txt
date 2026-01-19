@@ -168,3 +168,5 @@ d:\Eshop\server\obj\Debug\net8.0\server.pdb
 d:\Eshop\server\obj\Debug\net8.0\server.genruntimeconfig.cache
 d:\Eshop\server\obj\Debug\net8.0\ref\server.dll
 D:\Eshop\server\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Eshop\server\obj\Debug\net8.0\server.sourcelink.json
+D:\Eshop\server\obj\Debug\net8.0\swae.build.ex.cache

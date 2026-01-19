@@ -1,3 +1,5 @@
+
+
 import { HttpClient } from '@angular/common/http';
 import { Injectable } from '@angular/core';
 import { AddressDto } from '../Models/address';
@@ -12,6 +14,9 @@ import { environment } from 'src/environments/environment';
   providedIn: 'root'
 })
 export class PaymentService {
+  verifyPayment(arg0: { orderId: any; paymentId: any; signature: any; }) {
+    throw new Error('Method not implemented.');
+  }
 
   constructor(
     private http: HttpClient,
