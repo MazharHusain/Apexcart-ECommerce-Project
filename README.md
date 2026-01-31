@@ -31,6 +31,8 @@ Website Frontend UI
 
 <br><img width="1863" height="966" alt="checkout-2" src="https://github.com/user-attachments/assets/29b47071-5fa4-437e-8b05-9e48162eb011" /></br>
 
+<br>Payment Compeleted</br>
+
 <br><img width="1851" height="911" alt="payment" src="https://github.com/user-attachments/assets/9f670255-f609-4f32-9e3f-852399e92906" /></br>
 
 
