@@ -14,23 +14,23 @@ Website Frontend UI
 
 <br><img width="1857" height="913" alt="ecom-category" src="https://github.com/user-attachments/assets/27807e7f-83ed-40d8-bfee-c90dcca3d437" /></br>
 
-Filters
+<br>Filters</br>
 
-<img width="1853" height="908" alt="filter-1" src="https://github.com/user-attachments/assets/dd4c0107-8e73-4687-a0d4-925428e3fcc9" />
+<br><img width="1853" height="908" alt="filter-1" src="https://github.com/user-attachments/assets/dd4c0107-8e73-4687-a0d4-925428e3fcc9" /></br>
 
-<img width="615" height="710" alt="ecom-filter2" src="https://github.com/user-attachments/assets/5dfc18f9-3fb8-4174-b6ec-ba9847709bf6" />
+<br><img width="615" height="710" alt="ecom-filter2" src="https://github.com/user-attachments/assets/5dfc18f9-3fb8-4174-b6ec-ba9847709bf6" /></br>
 
-<img width="1855" height="916" alt="ecom filter-3" src="https://github.com/user-attachments/assets/4f8a6bbb-4d0a-4601-9aa1-2660b0384682" />
+<br><img width="1855" height="916" alt="ecom filter-3" src="https://github.com/user-attachments/assets/4f8a6bbb-4d0a-4601-9aa1-2660b0384682" /></br>
 
-Adding product to wishlist
+<br>Adding product to wishlist</br>
 
-<img width="1859" height="915" alt="ecom-cat" src="https://github.com/user-attachments/assets/1c1d0881-deb2-49cb-8e2b-0c4ff9488e9a" />
+<br><img width="1859" height="915" alt="ecom-cat" src="https://github.com/user-attachments/assets/1c1d0881-deb2-49cb-8e2b-0c4ff9488e9a" /></br>
 
-Checking Out
+<br>Checking Out</br>
 
 
-<img width="1863" height="966" alt="checkout-2" src="https://github.com/user-attachments/assets/29b47071-5fa4-437e-8b05-9e48162eb011" />
+<br><img width="1863" height="966" alt="checkout-2" src="https://github.com/user-attachments/assets/29b47071-5fa4-437e-8b05-9e48162eb011" /></br>
 
-<img width="1851" height="911" alt="payment" src="https://github.com/user-attachments/assets/9f670255-f609-4f32-9e3f-852399e92906" />
+<br><img width="1851" height="911" alt="payment" src="https://github.com/user-attachments/assets/9f670255-f609-4f32-9e3f-852399e92906" /></br>
 
 
