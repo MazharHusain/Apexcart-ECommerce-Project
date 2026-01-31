@@ -6,13 +6,13 @@ Website Frontend UI
 
 <br><img width="1860" height="923" alt="ecom-2" src="https://github.com/user-attachments/assets/c74484cf-c914-4292-9caa-36e757d89910" /></br>
 
-Login Website
+<br>Login Website</br>
 
-<img width="1858" height="913" alt="Ecom-login" src="https://github.com/user-attachments/assets/aab1960d-6c0d-4f15-954a-b394aafb2e44" />
+<br><img width="1858" height="913" alt="Ecom-login" src="https://github.com/user-attachments/assets/aab1960d-6c0d-4f15-954a-b394aafb2e44" /></br>
 
-Prodcuts category
+<br>Prodcuts category</br>
 
-<img width="1857" height="913" alt="ecom-category" src="https://github.com/user-attachments/assets/27807e7f-83ed-40d8-bfee-c90dcca3d437" />
+<br><img width="1857" height="913" alt="ecom-category" src="https://github.com/user-attachments/assets/27807e7f-83ed-40d8-bfee-c90dcca3d437" /></br>
 
 Filters
 
